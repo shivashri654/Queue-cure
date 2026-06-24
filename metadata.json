@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hospital Queue and Consultation System",
+  "description": "An enterprise-grade, real-time clinical token management, doctor consultation, patient tracking, and waiting room display system with AI predictive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
